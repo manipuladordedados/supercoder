@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=SuperCoder
+Version=1.0
+Comment=Meet and help in the development of Open Source software
+Icon=SuperCoder
+Exec=/usr/bin/SuperCoder
+Terminal=false
+Type=Application
+Categories=Development;Qt;
+StartupNotify=false
