@@ -33,4 +33,4 @@ Copyright (C) 2014 Valter Nazianzeno <manipuladordedados@gmail.com>
 
 SuperCoder is distributed under the GNU General Public License, See GPL for details.
 
-Most of the icons used in this softwares come from [Font Awesome](http://fontawesome.io/) and [Font Mfizz](http://fizzed.com/oss/font-mfizz).
+Most of the icons used in this software come from [Font Awesome](http://fontawesome.io/) and [Font Mfizz](http://fizzed.com/oss/font-mfizz).
