@@ -13,6 +13,8 @@ System requirements
 
 * Beautiful Soup 4
 
+* Setuptools (only for installation) 
+
 Installation
 ------------
 To manually install SuperCoder, run:
