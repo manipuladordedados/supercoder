@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 # Copyright (C) 2014 Valter Nazianzeno <manipuladordedados at gmail dot com>
 #
@@ -194,8 +194,8 @@ class MainWindow(QtGui.QDialog):
         """Opens a dialog with info about the app"""
         about_message = ("<center><img src="+self.resource_path("logo.png")+"></center>",
                  ("<center><strong>SuperCoder</strong></center>"),
-                 ("<center>1.0</center>"),
-                 ("<center>Meet and help in the development, improvements and corrections of Open Source software.</center>"),
+                 ("<center>1.0.1</center>"),
+                 ("<center>Software to help with the development of Open Source/Free Software: Fix bugs, Add features.</center>"),
                  "<center><font size='2'>Copyright (C) 2014 Valter Nazianzeno</font></center>",
                  ("""<center><font size='2'>This program comes with ABSOLUTELY NO WARRANTY.
                   <br>See the GNU General Public License for more details.</br></font></center>"""))
