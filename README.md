@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://i.imgur.com/g6EtcgH.png">
+</p>
+
 SuperCoder
 ===========
 
