@@ -1,0 +1,13 @@
+-History of changes-
+
+Version 2.0
+
+*Now only one instance of program is allowed.
+*Support for PySide is now discontinued(temporarily).
+*Dropped support for PyQt4, only PyQt5 is supported now.
+*Added icons to context menu of systray.
+*Improved connection and information handling methods.
+
+Version 1.0.1
+
+*Fixed conflict with Python 2.
