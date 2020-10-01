@@ -7,6 +7,7 @@
 
 SuperCoder
 ===========
+SuperCoder - A Cool Collaboration Software.
 
 SuperCoder was developed with the goal of helping to promote free and open-source projects that need help and in the language you know.
 
